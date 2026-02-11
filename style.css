@@ -8,4 +8,10 @@ body {
   align-items:center;
   flex-direction:column;
 }
-  
+.left-links, .right-links {
+  display:flex;
+  list-style:none;
+  gap:16 px;
+  margin:0;
+  padding:0;
+}
