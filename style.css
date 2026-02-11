@@ -20,7 +20,3 @@ body {
   display:flex;
   flex-direction:column;
   }
-.h1 {
-  display:flex;
-  font-size: 48px;
-}
